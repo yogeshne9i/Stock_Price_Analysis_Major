@@ -40,45 +40,6 @@ Stock_Price_Analysis_Major/
 ├── US_Stock_Data.csv
 └── README.md
 
----
-
-Stock_Price_Analysis_Major/
-│
-├── 01_Data_Preprocessing_and_EDA.ipynb
-│   ├─ Data loading and cleaning
-│   ├─ Feature engineering
-│   └─ Exploratory Data Analysis (EDA)
-│
-├── 02_Linear_Regression_Model.ipynb
-│   └─ Baseline machine learning model using
-│      Linear Regression for stock price prediction
-│
-├── 03_ARIMA_Stationarity_and_Forecasting.ipynb
-│   ├─ Stationarity test (ADF)
-│   ├─ ARIMA modeling
-│   └─ Time series forecasting
-│
-├── 04_LSTM_Stock_Price_Prediction.ipynb
-│   └─ Deep learning model using LSTM for
-│      advanced stock price prediction
-│
-├── 05_Model_Comparison_and_Insights.ipynb
-│   ├─ Model performance comparison
-│   ├─ Business insights
-│   ├─ Limitations
-│   └─ Future scope
-│
-├── US_Stock_Data.csv
-│   └─ Dataset used for stock price analysis and forecasting
-│
-├── README.md
-│   └─ Project overview, methodology, structure,
-│      and acknowledgements
-│
-└── Major_Project_Report.pdf   (optional but recommended)
-    └─ Detailed written report of the major project
-
-
 
 ---
 
