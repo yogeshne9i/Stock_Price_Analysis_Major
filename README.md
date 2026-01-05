@@ -17,7 +17,7 @@ The project demonstrates the **complete data science workflow**:
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - Analyze historical stock price data
 - Understand relationships between stock prices and market factors
 - Build baseline and advanced predictive models
@@ -27,7 +27,7 @@ The project demonstrates the **complete data science workflow**:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Stock_Price_Analysis_Major/
 │
@@ -41,6 +41,38 @@ Stock_Price_Analysis_Major/
 └── README.md
 
 ---
+
+Stock_Price_Analysis_Major/
+│
+├── 01_Data_Preprocessing_and_EDA.ipynb
+│   └─ Data loading, cleaning, feature engineering,
+│      and exploratory data analysis
+│
+├── 02_Linear_Regression_Model.ipynb
+│   └─ Baseline machine learning model using
+│      Linear Regression for stock price prediction
+│
+├── 03_ARIMA_Stationarity_and_Forecasting.ipynb
+│   └─ Time series analysis including stationarity test
+│      (ADF), ARIMA modeling, and forecasting
+│
+├── 04_LSTM_Stock_Price_Prediction.ipynb
+│   └─ Deep learning model using LSTM for
+│      advanced stock price prediction
+│
+├── 05_Model_Comparison_and_Insights.ipynb
+│   └─ Comparison of all models, performance evaluation,
+│      business insights, limitations, and future scope
+│
+├── US_Stock_Data.csv
+│   └─ Dataset used for stock price analysis and forecasting
+│
+├── README.md
+│   └─ Project overview, methodology, structure,
+│      and acknowledgements
+│
+└── Major_Project_Report.pdf   (optional but recommended)
+    └─ Detailed written report of the major project
 
 
 ---
@@ -122,7 +154,7 @@ The dataset contains historical financial data including:
 
 ---
 
-## 📊 Model Comparison Summary
+## Model Comparison Summary
 
 | Model | Description | Performance |
 |------|------------|------------|
@@ -132,7 +164,7 @@ The dataset contains historical financial data including:
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 - Stock prices show strong dependency on historical values
 - Time-series models outperform simple regression
 - LSTM captures long-term dependencies effectively
@@ -140,14 +172,14 @@ The dataset contains historical financial data including:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 - Models rely on historical data only
 - Sudden market events are not captured
 - External factors like news sentiment are not included
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 - Integration of real-time stock market APIs
 - Sentiment analysis using financial news
 - Advanced deep learning models (Transformers)
@@ -155,13 +187,13 @@ The dataset contains historical financial data including:
 
 ---
 
-## 👨‍🎓 Acknowledgement
+## Acknowledgement
 This project was developed as part of the **AI & Machine Learning Training and Internship Program conducted by Skill Ladder**.  
 I would like to thank **Skill Ladder** for their guidance, mentorship, and learning resources throughout the program.
 
 ---
 
-## 👤 Author
+## Author
 **Yogesh Negi**  
 AI & Machine Learning Trainee  
 Skill Ladder Training & Internship Program
