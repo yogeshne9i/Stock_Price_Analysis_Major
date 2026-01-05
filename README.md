@@ -30,15 +30,26 @@ The project demonstrates the **complete data science workflow**:
 ## Project Structure
 
 Stock_Price_Analysis_Major/
+
 │
-├── 01_Data_Preprocessing_and_EDA.ipynb   # Cleaning, visualization, and feature engineering
-├── 02_Linear_Regression_Model.ipynb      # Baseline statistical modeling
-├── 03_ARIMA_Stationarity_and_Forecasting.ipynb # Time-series analysis (Statistical)
-├── 04_LSTM_Stock_Price_Prediction.ipynb  # Deep Learning approach (RNN)
-├── 05_Model_Comparison_and_Insights.ipynb # Final evaluation and performance metrics
+
+├── 01_Data_Preprocessing_and_EDA.ipynb
+
+├── 02_Linear_Regression_Model.ipynb
+
+├── 03_ARIMA_Stationarity_and_Forecasting.ipynb
+
+├── 04_LSTM_Stock_Price_Prediction.ipynb
+
+├── 05_Model_Comparison_and_Insights.ipynb
+
 │
-├── US_Stock_Data.csv                     # Raw dataset containing historical prices
-└── README.md                             # Project documentation
+
+├── US_Stock_Data.csv
+
+└── README.md
+
+
 
 
 ---
