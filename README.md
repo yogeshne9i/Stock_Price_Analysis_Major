@@ -54,7 +54,7 @@ Stock_Price_Analysis_Major/
 
 ---
 
-## 🧾 Dataset Description
+## Dataset Description
 **Dataset Used:** `US_Stock_Data.csv`
 
 The dataset contains historical financial data including:
@@ -67,7 +67,7 @@ The dataset contains historical financial data including:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Python**
 - **Google Colab**
 - **Pandas**
@@ -81,7 +81,7 @@ The dataset contains historical financial data including:
 
 ---
 
-## 📘 Notebook-wise Explanation
+## Notebook-wise Explanation
 
 ### 🔹 01_Data_Preprocessing_and_EDA.ipynb
 - Data loading and cleaning
