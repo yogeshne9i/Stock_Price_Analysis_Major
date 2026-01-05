@@ -1,6 +1,8 @@
-# 📈 Stock Price Analysis & Forecasting – Major Project
+# Stock Price Analysis & Forecasting – AI & ML Major Project
 
-## 📌 Project Overview
+This repository contains my AI & ML major project created during the **Skill Ladder Training and Internship Program**.
+
+##  Project Overview
 This is a **Major Project** focused on **Stock Price Analysis and Forecasting** using **Machine Learning and Time Series models**.  
 The project analyzes historical stock market data and applies multiple models to predict future stock prices, with a special focus on **Netflix stock price**.
 
